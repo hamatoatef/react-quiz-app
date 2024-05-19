@@ -2,6 +2,14 @@
 
 Welcome to the React Quiz Project repository! This project is a dynamic quiz application built using React for the frontend and Node.js for the backend. The quiz consists of 15 questions, each with a point value contributing to a total score of 280.
 
+
+## Demo
+
+<video src="https://github.com/username/repo/blob/main/assets/example.mp4?raw=true" width="600" controls autoplay loop>
+  Your browser does not support the video tag.
+</video>
+
+
 ## Project Structure
 
 The repository is organized into two main folders:
