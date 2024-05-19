@@ -5,7 +5,7 @@ Welcome to the React Quiz Project repository! This project is a dynamic quiz app
 
 ## Demo
 
-<video src="https://github.com/hamatoatef/react-quiz-app/blob/main/untitled.webm" width="600" controls autoplay loop>
+<video src="https://github.com/hamatoatef/react-quiz-app/blob/main/untitled.webm?raw=true" width="600" controls autoplay loop>
   Your browser does not support the video tag.
 </video>
 
